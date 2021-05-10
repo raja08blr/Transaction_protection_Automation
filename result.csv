@@ -1,0 +1,3 @@
+domain,category,with or without,tcpdump_path,extn_id
+ecommerce,amazon,0,/root/dynamic_analysis_framework/tcp_dump_files,xyz
+ecommerce,amazon,0,/root/dynamic_analysis_framework/tcp_dump_files,xyz
